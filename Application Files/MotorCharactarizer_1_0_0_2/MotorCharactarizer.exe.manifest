@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MotorCharactarizer.exe" version="1.0.0.2" publicKeyToken="d0ece7ec74b755b7" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="engine_ev_eco_motor_electricity_icon_219819.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MotorCharactarizer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MotorCharactarizer.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MotorCharactarizer.exe" size="101824">
+      <assemblyIdentity name="MotorCharactarizer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9JQRaLLBC6uryBBx2+/YMJl3PTgTv0KfiyfA57NL3LQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="engine_ev_eco_motor_electricity_icon_219819.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/QfJ/bpjjv6e7J2LCUvXrfPtj5E7CSo6hWRCfjHZSBk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="MotorCharactarizer.exe.config" size="1578">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>zD5LPE/FNnZSvqLlUAWcPHRHz30GcDmFSKNLHnn9joE=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=HENRIKLEN\there" issuerKeyHash="d1f13972ee8f15d9526831e53a0aaac61448d2c6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>fHF3KY5sd5VUYNjWX6/YoeG6hXalopeqk6uLWMlrZ/U=</DigestValue></Reference></SignedInfo><SignatureValue>Z9EtAV3y755u1S5mzx+oVv56IdUrPfEGDoVWnfNFi5Eyzk1o4Y1AnW/e69pb1IrHcnEvLVfaDQmCthz7t0g6TYM3ShJokvDEcK/P+mzc1R8VP7Dv28dkqkQK8rBW7yVMOM0/njd9KfcztEl66BBW6jWjdh5u1eL9Amu2iL25jpE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>r2+Lzf1CiRgUb/7U0gpL0H1MVDQ+wqCeq3o1v2tgB7CaI7Y1hE0FxpagcHzcWGgi4RBcSv+dmocp5bi3FpPW8/DZSgIklUhlYRIaGn0ERp7VYA9jGxttBYPMsaaZFVwKq26/QFYRBfxZETuC4FEeQ5YcUZYZ9ReaGzaKXFdIFDE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f5676bc9588bab93aa97a2a57685bae1a1d8af5fd6d8605495776c8e2977717c" Description="" Url=""><as:assemblyIdentity name="MotorCharactarizer.exe" version="1.0.0.2" publicKeyToken="d0ece7ec74b755b7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=HENRIKLEN\there</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>TAMb3DE9J50CjZQap3KWaBCJbGAUCW/teImpwAyEpJA=</DigestValue></Reference></SignedInfo><SignatureValue>A00Y4aKsiO9F9/ObUt4cV7+zMyfQupm0YYt1dr1/r32o8wTCE7KE3xHuDopRb6GSX8/MAMc+eHg3tixhoJDMe55uR85P3JJx+zdyXcSaUmczXPZ92nFEEb64fpT1DTi7gj0WPV+TIBeI89ISypQWK28GrRS/9nmbDo7IJz9S0dA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>r2+Lzf1CiRgUb/7U0gpL0H1MVDQ+wqCeq3o1v2tgB7CaI7Y1hE0FxpagcHzcWGgi4RBcSv+dmocp5bi3FpPW8/DZSgIklUhlYRIaGn0ERp7VYA9jGxttBYPMsaaZFVwKq26/QFYRBfxZETuC4FEeQ5YcUZYZ9ReaGzaKXFdIFDE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQFKubdv39WblLkGvycaRAZDANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4ASABFAE4AUgBJAEsATABFAE4AXAB0AGgAZQByAGUwHhcNMjMwNDEwMTcxNjU5WhcNMjQwNDA5MjMxNjU5WjApMScwJQYDVQQDHh4ASABFAE4AUgBJAEsATABFAE4AXAB0AGgAZQByAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK9vi839QokYFG/+1NIKS9B9TFQ0PsKgnqt6Nb9rYAewmiO2NYRNBcaWoHB83FhoIuEQXEr/nZqHKeW4txaT1vPw2UoCJJVIZWESGhp9BEae1WAPYxsbbQWDzLGmmRVcCqtuv0BWEQX8WRE7guBRHkOWHFGWGfUXmhs2ilxXSBQxAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAjbAZ7wHWssvt3UZTcpjhpunZZr6sIYJVBNHbsI/D+Q7BX3hnrr5GB5Vu/By7vvr7SZaT0uiRj6HwujwM7wwp4wc1tH9qCx/u0RDxw0rSJPYQhQy+KC3zg2nT68d6vtpZyt6YmtF40oUxcmyh1KwQxQNxRXb3E3kXYEiyN711Kp4=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
