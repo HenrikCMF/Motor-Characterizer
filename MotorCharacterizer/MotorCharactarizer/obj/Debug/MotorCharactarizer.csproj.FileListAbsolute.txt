@@ -1,0 +1,37 @@
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizer\MotorCharactarizer\bin\Debug\MotorCharactarizer.exe.config
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizer\MotorCharactarizer\bin\Debug\MotorCharactarizer.exe
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizer\MotorCharactarizer\bin\Debug\MotorCharactarizer.pdb
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.csproj.AssemblyReference.cache
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.Form1.resources
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.Properties.Resources.resources
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.csproj.GenerateResource.cache
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.csproj.CoreCompileInputs.cache
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.exe
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.pdb
+D:\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.csproj.AssemblyReference.cache
+D:\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.csproj.SuggestedBindingRedirects.cache
+D:\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.Form1.resources
+D:\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.Properties.Resources.resources
+D:\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.csproj.GenerateResource.cache
+D:\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.csproj.CoreCompileInputs.cache
+D:\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.exe
+D:\MotorCharactarizer\MotorCharactarizer\obj\Debug\MotorCharactarizer.pdb
+D:\MotorCharactarizer\MotorCharactarizer\bin\Debug\MotorCharactarizer.exe.config
+D:\MotorCharactarizer\MotorCharactarizer\bin\Debug\MotorCharactarizer.exe
+D:\MotorCharactarizer\MotorCharactarizer\bin\Debug\MotorCharactarizer.pdb
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\bin\Debug\MotorCharactarizer.exe.config
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\bin\Debug\MotorCharactarizer.exe
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\bin\Debug\MotorCharactarizer.pdb
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\obj\Debug\MotorCharactarizer.csproj.AssemblyReference.cache
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\obj\Debug\MotorCharactarizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\obj\Debug\MotorCharactarizer.Form1.resources
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\obj\Debug\MotorCharactarizer.Properties.Resources.resources
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\obj\Debug\MotorCharactarizer.csproj.GenerateResource.cache
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\obj\Debug\MotorCharactarizer.csproj.CoreCompileInputs.cache
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\obj\Debug\MotorCharactarizer.exe
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\obj\Debug\MotorCharactarizer.pdb
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\bin\Debug\MotorCharactarizer.exe.manifest
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\bin\Debug\MotorCharactarizer.application
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\obj\Debug\MotorCharactarizer.exe.manifest
+C:\Users\there\Documents\Code 6sem\Bachelor project\MotorCharactarizerV2\MotorCharactarizer\obj\Debug\MotorCharactarizer.application
